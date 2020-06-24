@@ -58,3 +58,9 @@ Things I am looking into right now
 - [Purely functional programming](https://en.wikipedia.org/wiki/Purely_functional_programming)
   - Programming paradigm that treats all computation as mathematical functions
   - Easy to cache computation
+- [Type Theory](https://en.wikipedia.org/wiki/Type_theory)
+  - Alternative to set theory
+- [Homotopy Type Theory](https://en.wikipedia.org/wiki/Homotopy_type_theory)
+  - Types realized as abstract spaces and mapping of one type to another as paths
+- [Combinatory Logic](https://en.wikipedia.org/wiki/Combinatory_logic)
+  - Alterinative to lambda calculus
