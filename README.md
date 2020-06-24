@@ -52,6 +52,8 @@ Things I am looking into right now
 ### Math
 - Homotopical Patch Theory
   - Theory behind pijul
+- [Complex Analysis](https://en.wikipedia.org/wiki/Complex_analysis)
+  - Analysis with complex numbers
 ### Computer Science
 - [Semi-Thue System](https://en.wikipedia.org/wiki/Semi-Thue_system)
   - Formal rewriting system
