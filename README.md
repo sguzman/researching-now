@@ -41,6 +41,14 @@ Things I am looking into right now
   - Visual prog lang
 - [Elm](https://elm-lang.org/)
   - Prog lang for designing functional UIs
+- [J](https://en.wikipedia.org/wiki/J_(programming_language))
+  - Tacit programming
+  - Function-level programmin
+#### Programming Paradigm
+- [Tacit Programming](https://en.wikipedia.org/wiki/Tacit_programming)
+  - ???
+- [Function-Level Programming](https://en.wikipedia.org/wiki/Function-level_programming)
+  - ???
 #### Tools
 - [Pijul](https://pijul.org/)
   - Rust-based version control based on the theory of patches
