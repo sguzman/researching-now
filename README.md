@@ -39,6 +39,8 @@ Things I am looking into right now
   - Declaritive
 - [Luna](https://www.luna-lang.org/)
   - Visual prog lang
+- [Elm](https://elm-lang.org/)
+  - Prog lang for designing functional UIs
 #### Tools
 - [Pijul](https://pijul.org/)
   - Rust-based version control based on the theory of patches
