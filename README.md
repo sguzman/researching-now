@@ -33,3 +33,5 @@ Things I am looking into right now
 - - filesystem that lets you pool together drives like raid
 - Glendix
 - - Linux port of Plan 9 functionality
+- [BTFS](https://github.com/johang/btfs)
+- - Mount a torrent as folder and access content on demand
