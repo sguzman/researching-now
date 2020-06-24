@@ -44,6 +44,8 @@ Things I am looking into right now
 - [J](https://en.wikipedia.org/wiki/J_(programming_language))
   - Tacit programming
   - Function-level programmin
+- [Nim](https://en.wikipedia.org/wiki/Nim_(programming_language))
+  - ???
 #### Programming Paradigm
 - [Tacit Programming](https://en.wikipedia.org/wiki/Tacit_programming)
   - ???
