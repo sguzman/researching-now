@@ -48,3 +48,9 @@ Things I am looking into right now
 ### Math
 - Homotopical Patch Theory
   - Theory behind pijul
+### Computer Science
+- [Semi-Thue System](https://en.wikipedia.org/wiki/Semi-Thue_system)
+  - Formal rewriting system
+- [Purely functional programming](https://en.wikipedia.org/wiki/Purely_functional_programming)
+  - Programming paradigm that treats all computation as mathematical functions
+  - Easy to cache computation
