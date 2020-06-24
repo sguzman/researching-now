@@ -37,6 +37,8 @@ Things I am looking into right now
   - NixOS config prog lang
   - Purely functional
   - Declaritive
+- [Luna](https://www.luna-lang.org/)
+  - Visual prog lang
 #### Tools
 - [Pijul](https://pijul.org/)
   - Rust-based version control based on the theory of patches
