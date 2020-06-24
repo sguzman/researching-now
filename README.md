@@ -49,6 +49,9 @@ Things I am looking into right now
   - ???
 - [Function-Level Programming](https://en.wikipedia.org/wiki/Function-level_programming)
   - ???
+#### Shells
+- [xyzsh](https://github.com/ab25cq/xyzsh)
+  - ???
 #### Tools
 - [Pijul](https://pijul.org/)
   - Rust-based version control based on the theory of patches
