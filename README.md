@@ -62,6 +62,7 @@ Things I am looking into right now
   - Competitor to X11
 - Glendix
   - Linux port of Plan 9 functionality
+- [a toolkit for language and grammar](http://languagemachine.sourceforge.net/index.html)
 ### Math
 - Homotopical Patch Theory
   - Theory behind pijul
