@@ -68,6 +68,10 @@ Things I am looking into right now
   - Theory behind pijul
 - [Complex Analysis](https://en.wikipedia.org/wiki/Complex_analysis)
   - Analysis with complex numbers
+- [Functional Analysis](https://en.wikipedia.org/wiki/Functional_analysis)
+  - Study of vector spaces endowed with limit-related structure
+- [Spectral Theory](https://en.wikipedia.org/wiki/Spectral_theory)
+  - Extension of theories of eigenvalues and eigenvectors to operators
 ### Computer Science
 - [Semi-Thue System](https://en.wikipedia.org/wiki/Semi-Thue_system)
   - Formal rewriting system
