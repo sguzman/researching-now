@@ -1,5 +1,5 @@
 # Researching
-Things I am looking into right now
+Things I want to look into
 
 ## List
 ### Techonology
@@ -46,6 +46,10 @@ Things I am looking into right now
   - Function-level programmin
 - [Nim](https://en.wikipedia.org/wiki/Nim_(programming_language))
   - ???
+- [Coconut](http://coconut-lang.org/)
+  - Functional variant of python
+- [Hy](https://github.com/hylang/hy)
+  - Lispy version of python
 #### Programming Paradigm
 - [Tacit Programming](https://en.wikipedia.org/wiki/Tacit_programming)
   - ???
